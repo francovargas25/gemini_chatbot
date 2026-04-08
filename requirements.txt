@@ -1,7 +1,8 @@
+streamlit
+python-dotenv
+google-genai
 requests
 huggingface_hub
-google-genai
 groq
 mistralai
 openai
-python-dotenv
